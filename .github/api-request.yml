@@ -1,0 +1,12 @@
+name: API Request with Secret
+
+on:
+  workflow_dispatch:
+
+jobs:
+  api-call:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Make API Request
+        run: |
+          curl -H "Authorization: Bearer ${{ secrets.API_KEY }}" https://api.example.com/data
