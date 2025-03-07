@@ -1,6 +1,6 @@
 # Features
-In diesem Repository kann man absolut nichts machen. <br>
-Es gibt Pages, wo man seine Webseite hosten kann.
+Auf dieser Seite kann man absolut nichts machen. <br>
+Man kann nur zwischen den Seiten Navigieren...
 
 ## Inhalt
 - [Einrichtung](/setup.md)
