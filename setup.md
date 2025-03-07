@@ -3,3 +3,6 @@
    ```bash
    git clone https://github.com/dein-username/projekt-dokumentation.git
 2. npm install
+## Inhalt
+- [Index](/index.md)
+- [Funktionen](/features.md)
